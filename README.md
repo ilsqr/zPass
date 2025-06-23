@@ -170,16 +170,6 @@ Her bileşen için detaylı kurulum kılavuzları mevcuttur:
 - 🌐 **HTTPS kullanın** (üretim ortamında)
 - 🔄 **Güncel tutun** - Güvenlik güncellemelerini kaçırmayın
 
-## 📞 Destek ve İletişim
-
-- **Dokümantasyon:** README dosyalarını inceleyin
-- **Sorun Bildirimi:** GitHub Issues kullanın
-- **Güvenlik Sorunları:** Güvenlik açıklarını sorumlu bir şekilde bildirin
-
-## 📄 Lisans
-
-[Lisans bilgisi buraya eklenecek]
-
 ---
 
 **🔒 Güvenlik ve Gizlilik İlk Önceliğimizdir**
